@@ -1,0 +1,165 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.banner-img{
+    width: 450px;
+    padding-top: 65px;
+    
+}
+.banner-container{
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    align-items: center;
+    border: 2px solid rgb(225, 224, 226);
+    background-color: #AAE6E2;
+
+}
+.help-item{
+    align-items: center;
+}
+
+.title{
+    font-size: 60px;
+    font-weight: bold;
+   
+}
+.description{
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+.btn{
+    padding: 18px 30px;
+    background-color: rgb(0, 0, 0);
+    color: wheat;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+/* part 4 */
+
+.main-img{
+    width: 250px;
+}
+.main-container{
+    display: flex;
+    justify-content: space-around;
+    height: 80vh;
+    align-items: center;
+    border: 2px solid rgb(225, 224, 226);
+    background-color: #AAE6E2;
+    flex-direction: row-reverse;
+
+}
+.main-title{
+    font-size: 30px;
+    font-weight: bold;
+
+   
+}
+.main-description{
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+.main-btn{
+    padding: 18px 30px;
+    background-color: rgb(0, 0, 0);
+    color: wheat;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.main-text{
+
+}
+
+/* part -2 */
+.help{
+    padding: 40px;
+    background: #f1f1f1;
+    margin: 60px 80px 60px 80px;
+}
+
+.help-title{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+.about-info-contaner{
+    display: flex;
+}
+.info-title{
+    
+    
+}
+.about-info{
+    padding-right: 400px;
+}
+/* Sell up to 50% off */
+.skills-container{
+    display: flex;
+    gap: 2px;
+    /* resize: horizontal; */
+    margin: 20px 20px 20px  20px;
+    padding: 20px 50px 20px  50px;
+}
+.skill{
+    padding: 3;
+    margin: ;
+
+    
+    
+    
+}
+#What-I-Do-description{
+    text-align: center;
+    margin-top: 20px;
+    
+}
+.section-title{
+    text-align: center;
+    padding-top: 40px;
+    margin-top: 20px;
+}
+.section-description{
+    
+    /* padding: 20px 20px 20px 20px; */
+}
+/* footer start */
+.footer-container{
+    /* width: 100vw; */
+    height: 50vh;
+    margin: 30px 30px 30px 30px;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 150px;
+    background-image:url(photos/Rectangle\ 9.png)
+}
+
+.search{
+    margin-top: 20px;
+    margin-right: 10px;
+    padding: 10px 250px 10px 0px ;
+    border-style: none;
+}
+
+.footer-end{
+    background-color: black;
+    color: #ffffff;
+    margin: 20px;
+    height: 200px;
+    text-align: center;
+    padding-top: 90px;
+    margin: 0;
+    
+}
+.btn-foot{
+    padding: 8px 10px;
+    background-color: #bd032b;;
+}
